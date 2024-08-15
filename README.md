@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available at [https://davimoreira24.github.io/portfolio/](https://davimoreira24.github.io/portfolio/)
 
-- 💬 Ask me about **react,django,bubble**
+- 💬 Ask me about **JS,Python.**
 
 - 📫 How to reach me **techdavimoreira@gmail.com**
 
