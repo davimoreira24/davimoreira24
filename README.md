@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Davi Moreira</h1>
 <h3 align="center">A passionate fullstack developer from Brazil</h3>
 
-- 👨‍💻 All of my projects are available at [https://davimoreira24.github.io/portfolio/](https://davimoreira24.github.io/portfolio/)
+- 👨‍💻 All of my projects are available at [https://www.devdavimoreira.com.br/](https://www.devdavimoreira.com.br/)
 
 - 💬 Ask me about **JS,Python.**
 
